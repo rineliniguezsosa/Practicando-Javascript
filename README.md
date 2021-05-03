@@ -6,4 +6,4 @@
 
 ## Proyecto 2.- App contadora
 
-<img  src="/Proyecto2/img/proyecto2.png" alt="Proyecto 2"/>
+<img  src="/Proyecto2/img/proyect2.png" alt="Proyecto 2"/>
