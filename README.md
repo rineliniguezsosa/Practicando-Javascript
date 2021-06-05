@@ -19,3 +19,16 @@
 ## proyecto 5.- Tabs de Contenido
 
 <img  src="/Proyecto5/img/proyecto5.png" alt="Proyecto 5"/>
+
+## proyecto 6.- Reloj digital
+
+<img  src="/Proyecto6/img/proyecto6.png" alt="Proyecto 6"/>
+
+## proyecto 7.- Piedra,Papel ó Tijeras
+
+<img  src="/Proyecto7/img/proyecto7.png" alt="Proyecto 7"/>
+
+## proyecto 8.- Responsive Navbar
+
+<img  src="/Proyecto8/img/proyecto8.png" alt="Proyecto 8"/>
+

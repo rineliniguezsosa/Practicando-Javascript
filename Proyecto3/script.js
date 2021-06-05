@@ -4,7 +4,7 @@ window.onload = function(){
         {
             urlimg:"https://randomuser.me/api/portraits/women/0.jpg",
             nombre:"Lissa",
-            comentario:"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            comentario:"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
         },
         {
             urlimg:"https://randomuser.me/api/portraits/women/17.jpg",
