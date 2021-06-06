@@ -32,3 +32,7 @@
 
 <img  src="/Proyecto8/img/proyecto8.png" alt="Proyecto 8"/>
 
+## proyecto 9.- FAQ-Preguntas Generales
+
+<img  src="/Proyecto9/img/proyecto9.png" alt="Proyecto 9"/>
+
