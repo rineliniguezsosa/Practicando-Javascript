@@ -1,0 +1,92 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height: 620px;
+    background-color: #251D2C;
+}
+.text{
+    width: auto;
+    height: 120px;
+    font-family: 'Red Hat Text', sans-serif;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/Proyecto10/images/bg-stars.svg');
+    background-repeat: no-repeat; 
+}
+.limite{
+    font-family:'Red Hat Text', sans-serif;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-size: 30px;
+}
+.cuentaregresiva{
+    width: 100%;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/Proyecto10/images/bg-stars.svg');
+    background-repeat: no-repeat;
+}
+.limite{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.tiempo{
+    width: 140px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tiempo span{
+    margin-top: 5px;
+    font-family: 'Red Hat Text', sans-serif; 
+    font-weight: 700;
+    color: #706E8C;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+.card{
+    width:100%;
+    height: 80%;
+    border-radius: 5%;
+    background-color: #34364F;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.card p{
+    color: #FB5C84;
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+.imagen{
+    background-image: url('/Proyecto10/images/pattern-hills.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:185px;
+    margin-top: 28px;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    justify-content: space-between;
+}
