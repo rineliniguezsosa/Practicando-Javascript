@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.grocery-container{
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+.show-container{
+    visibility: visible;
+}
+.alert-danger{
+    color: #000;
+    background-color:crimson;
+}
+.alert-exitoso{
+    color: #000;
+    background-color:lawngreen;
+}
+
+
+
+
