@@ -44,5 +44,11 @@
 
 <img  src="/Proyecto11/img/proyecto11.png" alt="Proyecto 11"/>
 
+## proyecto 12.-Generador de parrafos
+
+<img  src="/Proyecto12/img/proyecto12.png" alt="Proyecto 12"/>
+
+
+
 
 

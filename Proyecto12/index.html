@@ -4,38 +4,28 @@
 <meta charset='UTF-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 <meta http-equiv='X-UA-Compatible' content='ie=edge'>
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<title>Pruebas</title>
+<title>lorem</title>
 <link rel='stylesheet' href='estilo.css'>
-<script src="https://kit.fontawesome.com/525d2788d6.js" crossorigin="anonymous"></script>
-<script src="./script.js" ></script>
+<script src="script.js"></script>
 </head>
 <body>
-    
-    <section class="section-center">
-        <form action="" class="grocery-form">
-            <p class="alert"></p>
-            <h3>grocery bud</h3>
-            <div class="form-control">
-                <input type="text" id="grocery" placeholder="Añade un nuevo elemento">
-                <button  type="submit" class="submit-btn">Añadir</button>
-            </div>
+<div class="container">
+    <span style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 50px;">
+    Construye tus parrafos lorem ipsum
+    </span>
+    <div>
+        <form id="form">
+            <label style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 20px;">
+                Parrafos
+            </label>
+            <input style="width: 40px;" id="parrafos" type="number" placeholder="5">
+            <button 
+            style="background-color: #0096D6; color: #fff;border: none; width:70px;height: 20px;border-radius: 5px;" type="submit">
+            Generar
+            </button>
         </form>
-        <div class="grocery-container">
-            <div class="grocery-list">
-                <article class="grocery-item">
-                    <p class="title"></p>
-                    <div class="btn-container">
-                        <button class="edit-btn">Editar</button>
-                        <button class="delete-btn">Eliminar</button>
-                    </div>
-                </article>
-            </div>
-            <button type="button" class="clear-btn">Clear items</button>
-        </div>
-    </section>
-    
-   
-
+    </div> 
+    <article id="lorem" style="text-align: justify;width: 50%;"></article>
+</div>
 </body>
 </html>
