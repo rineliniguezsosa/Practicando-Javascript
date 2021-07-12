@@ -26,7 +26,9 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
+-Ver estados de desplazamiento para todos los elementos interactivos en la página
 - Calculate the correct tip and total cost of the bill per person
+-Calcule la propina correcta y el costo total de la factura por persona
 
 ### Screenshot
 
