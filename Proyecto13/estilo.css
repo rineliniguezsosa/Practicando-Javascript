@@ -4,29 +4,37 @@
 }
 .container{
     width: 50%;
-    height: 350px;
+    height: 270px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 150px;
     padding: 30px;
     display: flex;
     flex-direction: row;
 }
-.boxes{
-    width: 50%;
+.form{
+    width: 45%;
+    margin-right: 70px;
+}
+.show{
     border:1px red solid;
 }
 #boxgreen{
     background-color:#00474B;
+    box-sizing: border-box;
+    width: 45%;
     border-radius: 10px;
-    padding: 10px;
+    padding: 30px;
 }
-#total{
+.tipografia{
+    display: flex;
+    flex-direction: column;
+}
+.entradas{
     width: 100%;
     box-sizing: border-box;
     border: none;
     border-radius: 4px;
     text-align:right;
-    background-image: url('/Proyecto13/images/icon-dollar.svg');
     background-position: 10px 15px; 
     background-color: #F3F8FB;
     font-size: 16px;
@@ -36,12 +44,60 @@
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
 }
-
-
+#personas{
+    background-image: url('/Proyecto13/images/icon-person.svg');
+}
+#cantidadtotal{
+    background-image: url('/Proyecto13/images/icon-dollar.svg');
+}
+.opciones{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.btn{
+    width: 32%;
+    height: 40px;
+    border: none;
+    background-color: #00474B;
+    color: #fff;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+}
+button:hover{
+    transition: all 0.5s ease;
+    background-color: #9DE9DF;
+    color: #00474B;
+}
+#reset{
+    background-color: #26C2AD
+}
+#reset:hover{
+    transition: all 0.3s ease;
+    background-color: #9FE8DF;
+}
+#owntip{
+    width: 32%;
+    height: 40px;
+    border: none;
+    background-color: #F4F8FB;
+    margin-top: 4px;
+    border-radius: 5px;
+    color: #00474B;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+}
+.text{
+    font-family: 'Space Mono';
+    font: weight 700px;
+    font-size: 12px;
+    visibility:hidden;
+    color:red;
+}
 /* 
 font-family: 'Space Mono', monospace; 
 */
-
-
-
-
