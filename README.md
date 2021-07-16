@@ -48,6 +48,10 @@
 
 <img  src="/Proyecto12/img/proyecto12.png" alt="Proyecto 12"/>
 
+## proyecto 13.-Calculadora de propinas
+
+<img  src="/Proyecto13/img/proyecto13.png" alt="Proyecto 13"/>
+
 
 
 

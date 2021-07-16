@@ -95,9 +95,13 @@ button:hover{
     font-family: 'Space Mono';
     font: weight 700px;
     font-size: 12px;
-    visibility:hidden;
+    visibility: hidden;
     color:red;
 }
+.show-text{
+    visibility: visible;
+}
+
 /* 
 font-family: 'Space Mono', monospace; 
 */
