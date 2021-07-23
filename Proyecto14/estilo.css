@@ -88,10 +88,14 @@
 }
 .rowf{
     width: 95%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
     margin-bottom: 10px;
 }
 #reset{
-    width: 44%;
+    width: 47.5%;
     height: 45px;
     border-radius: 10px;
     border: none;
@@ -100,10 +104,9 @@
     font-weight: 700;
     font-family: 'Spartan', sans-serif;
     font-size: 12px;
-    margin-left: 10px;
 }
 #igual{
-    width: 100%;
+    width: 47%;
     height: 45px;
     border-radius: 10px;
     border: none;
@@ -112,5 +115,5 @@
     font-weight: 700;
     font-family: 'Spartan', sans-serif;
     font-size: 15px;
-    margin-right: 10px; 
+    
 }
