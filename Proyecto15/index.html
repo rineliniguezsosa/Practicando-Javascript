@@ -10,10 +10,10 @@
 <script src="script.js"></script>
 </head>
 <body style="display: flex;justify-content: center;align-items: center;">
-   <form class="formulario" method="POST" action="#" name="formulario">
-      <input class="inputs" pattern="[A-Za-z]{3}" title="Primera letra es mayuscula" name="nombre" id="nombre" type="text" placeholder="Nombre">
+   <form  class="formulario" name="formulario">
+      <input class="inputs" max="20" name="nombre" id="nombre" type="text" placeholder="Nombre">
       <input class="inputs" maxlength="50" name="apellido" type="text" id="apellido" placeholder="Apellido">
-      <input class="inputs" name="edad" type="number" id="edad" placeholder="Edad">
+      <input class="inputs" name="edad" min="18" max="25" type="number" id="edad" placeholder="Edad">
       <input class="inputs" name="email" type="email" id="email" placeholder="E-mail">
       <input id="btn" type="button" value="Enviar">
    </form>
