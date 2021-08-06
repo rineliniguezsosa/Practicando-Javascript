@@ -66,6 +66,7 @@ window.addEventListener("load",()=>{
        
        
     }
+     /* Puede obtener el enésimo carácter, o letra, de una cadena escribiendo "cadena" [N]. El valor devuelto será una cadena que contiene solo un carácter (por ejemplo, "b"). El primer carácter tiene la posición 0, lo que hace que el último se encuentre en la posición string.length - 1. En otras palabras, una cadena de dos caracteres tiene la longitud 2 y sus caracteres tienen las posiciones 0 y 1. Escriba una función countBs que toma una cadena como único argumento y devuelve un número que indica cuántos caracteres "B" en mayúscula hay en la cadena. A continuación, escriba una función llamada countChar que se comporte como countBs, excepto que necesita un segundo argumento que indica el carácter que se va a contar (en lugar de contar solo los caracteres "B" en mayúscula). Vuelva a escribir countBs para hacer uso de esta nueva función. */
 })
 
 
